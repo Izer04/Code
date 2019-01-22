@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Doctolib</string>
+    <string-array name="specialiteMedecine">
+        <item>Généraliste</item>
+        <item>Pédiatrie</item>
+        <item>Neurologie</item>
+        <item>Chirurgie</item>
+    </string-array>
+</resources>

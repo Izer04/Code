@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_medecin_declarer"
+        android:title="Déclarer disponibilité" />
+
+    <item android:id="@+id/menu_medecin_consulter"
+    android:title="Mes disponibilités" />
+
+    <item android:id="@+id/menu_medecin_deconnexion"
+        android:title="Deconnexion" />
+</menu>
